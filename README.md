@@ -6,4 +6,4 @@ and will continue to be updated every so often.
 
 Thanks for your kind contribution, 
 
-- Galaxy
+-\ Galaxy
